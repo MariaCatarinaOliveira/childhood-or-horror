@@ -125,6 +125,7 @@ input::placeholder{
     }
     input{
         background-color: #fff;
+        color: #000000;
     }
 }
 
